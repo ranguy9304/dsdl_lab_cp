@@ -1,0 +1,25 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Thu Aug 18 04:42:25 2022
+[*]
+[dumpfile] "/home/ugcse/dsd_210905324/lab1/1/part2/example2_tb.vcd"
+[dumpfile_mtime] "Thu Aug 18 04:41:57 2022"
+[dumpfile_size] 602
+[savefile] "/home/ugcse/dsd_210905324/lab1/1/part2/output.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-6.657403 188 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] example2_tb.
+[sst_width] 233
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 144
+@28
+example2_tb.ex2.a
+example2_tb.ex2.b
+example2_tb.ex2.c
+example2_tb.ex2.d
+example2_tb.ex2.m
+[pattern_trace] 1
+[pattern_trace] 0
