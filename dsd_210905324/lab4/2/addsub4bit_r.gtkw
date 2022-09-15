@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Thu Sep 15 05:01:34 2022
+[*]
+[dumpfile] "/home/ugcse/CSE_A2_210905324/dsdl_lab_cp/dsd_210905324/lab4/2/addsub4bit.vcd"
+[dumpfile_mtime] "Thu Sep 15 05:00:57 2022"
+[dumpfile_size] 1901
+[savefile] "/home/ugcse/CSE_A2_210905324/dsdl_lab_cp/dsd_210905324/lab4/2/addsub4bit_r.gtkw"
+[timestart] 0
+[size] 1152 600
+[pos] -1 -1
+*-4.730315 23 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 233
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 136
+@22
+addsub4bit_tb.x[3:0]
+addsub4bit_tb.y[3:0]
+@28
+addsub4bit_tb.Cin
+@22
+addsub4bit_tb.s[3:0]
+@29
+addsub4bit_tb.Cout
+[pattern_trace] 1
+[pattern_trace] 0

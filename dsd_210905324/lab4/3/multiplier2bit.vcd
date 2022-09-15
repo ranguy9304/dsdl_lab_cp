@@ -1,0 +1,101 @@
+$date
+	Thu Sep 15 10:43:16 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module multiplier2bit_tb $end
+$var wire 4 ! p [3:0] $end
+$var wire 1 " Cout $end
+$var reg 1 # Cin $end
+$var reg 2 $ a [1:0] $end
+$var reg 2 % b [1:0] $end
+$scope module ex2 $end
+$var wire 1 # Cin $end
+$var wire 2 & a [1:0] $end
+$var wire 2 ' b [1:0] $end
+$var wire 2 ( y [1:0] $end
+$var wire 2 ) x [1:0] $end
+$var wire 4 * p [3:0] $end
+$var wire 1 + c1 $end
+$var wire 1 " Cout $end
+$scope module stage0 $end
+$var wire 1 # Cin $end
+$var wire 1 + Cout $end
+$var wire 1 , s $end
+$var wire 1 - x $end
+$var wire 1 . y $end
+$upscope $end
+$scope module stage1 $end
+$var wire 1 + Cin $end
+$var wire 1 " Cout $end
+$var wire 1 / s $end
+$var wire 1 0 x $end
+$var wire 1 1 y $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+01
+00
+0/
+0.
+0-
+0,
+0+
+b0 *
+b0 )
+b0 (
+b0 '
+b0 &
+b0 %
+b0 $
+0#
+0"
+b0 !
+$end
+#20
+b10 !
+b10 *
+1,
+1#
+b10 %
+b10 '
+#40
+1.
+b1 (
+b10 !
+b10 *
+1,
+0#
+b1 $
+b1 &
+#60
+b0 !
+b0 *
+0,
+0.
+b0 (
+b0 %
+b0 '
+b10 $
+b10 &
+#80
+1/
+1+
+1.
+b1 (
+b100 !
+b100 *
+0,
+1#
+b10 %
+b10 '
+b1 $
+b1 &
+#100
