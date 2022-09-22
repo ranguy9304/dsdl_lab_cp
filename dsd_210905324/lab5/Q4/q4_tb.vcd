@@ -1,0 +1,208 @@
+$date
+	Thu Sep 22 10:30:14 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module q4_tb $end
+$var wire 1 ! L $end
+$var wire 1 " G $end
+$var wire 1 # E $end
+$var reg 1 $ a0 $end
+$var reg 1 % a1 $end
+$var reg 1 & a2 $end
+$var reg 1 ' a3 $end
+$var reg 1 ( b0 $end
+$var reg 1 ) b1 $end
+$var reg 1 * b2 $end
+$var reg 1 + b3 $end
+$scope module q4 $end
+$var wire 1 # E $end
+$var wire 1 " G $end
+$var wire 1 ! L $end
+$var wire 1 $ a0 $end
+$var wire 1 % a1 $end
+$var wire 1 & a2 $end
+$var wire 1 ' a3 $end
+$var wire 1 ( b0 $end
+$var wire 1 ) b1 $end
+$var wire 1 * b2 $end
+$var wire 1 + b3 $end
+$var wire 1 , l2 $end
+$var wire 1 - l1 $end
+$var wire 1 . g2 $end
+$var wire 1 / g1 $end
+$var wire 1 0 e2 $end
+$var wire 1 1 e1 $end
+$scope module comp1 $end
+$var wire 1 0 E $end
+$var wire 1 . G $end
+$var wire 1 , L $end
+$var wire 1 & a0 $end
+$var wire 1 ' a1 $end
+$var wire 1 * b0 $end
+$var wire 1 + b1 $end
+$upscope $end
+$scope module comp2 $end
+$var wire 1 1 E $end
+$var wire 1 / G $end
+$var wire 1 - L $end
+$var wire 1 $ a0 $end
+$var wire 1 % a1 $end
+$var wire 1 ( b0 $end
+$var wire 1 ) b1 $end
+$upscope $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+01
+00
+1/
+1.
+0-
+0,
+0+
+1*
+0)
+0(
+1'
+0&
+0%
+1$
+0#
+1"
+0!
+$end
+#50
+1-
+0/
+1(
+1&
+0$
+#100
+0-
+1/
+0(
+1%
+#150
+1-
+0/
+1)
+1(
+0&
+0%
+1$
+#200
+1/
+1"
+0-
+1.
+0*
+0)
+0(
+0'
+1&
+1%
+0$
+#250
+1*
+1'
+0&
+0%
+1$
+#300
+0.
+10
+0'
+1&
+1%
+0$
+#350
+0"
+0/
+1#
+11
+0.
+1+
+0*
+1)
+1(
+1'
+0&
+1$
+#400
+1"
+1-
+1.
+0#
+00
+01
+0+
+1*
+0)
+1&
+0%
+0$
+#450
+1!
+0"
+0.
+10
+0*
+1)
+0'
+0&
+1$
+#500
+0!
+1#
+0-
+11
+0)
+0(
+0$
+#550
+1!
+0#
+0"
+1-
+01
+0.
+1+
+1*
+1)
+1'
+1&
+#600
+1,
+1!
+0-
+11
+00
+0)
+0&
+#650
+1-
+01
+1)
+1(
+0'
+#700
+1/
+0-
+0+
+0)
+1%
+1$
+#750
+0!
+1"
+0,
+1.
+1'
+#800
