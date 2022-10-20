@@ -1,0 +1,56 @@
+$date
+	Thu Oct 20 11:25:19 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ns
+$end
+$scope module testbench $end
+$var wire 4 ! out [3:0] $end
+$var reg 1 " a $end
+$var reg 1 # b $end
+$var integer 32 $ i [31:0] $end
+$scope module e0 $end
+$var wire 1 " a $end
+$var wire 1 % ac $end
+$var wire 1 # b $end
+$var wire 1 & en $end
+$var wire 4 ' temp [3:0] $end
+$var reg 4 ( out [3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1 (
+b1 '
+1&
+0%
+b0 $
+0#
+0"
+b1 !
+$end
+#20
+b10 !
+b10 (
+b10 '
+1#
+b1 $
+#40
+b100 !
+b100 (
+b100 '
+0#
+1"
+b10 $
+#60
+b1000 !
+b1000 (
+b1000 '
+1#
+b11 $
+#80
+b100 $
